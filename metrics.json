@@ -8,8 +8,8 @@
     "model_b": {
         "model_name": "Feedforward Neural Network",
         "model_type": "Deep Learning",
-        "accuracy": 0.9649,
-        "f1_score": 0.9718
+        "accuracy": 0.9737,
+        "f1_score": 0.9787
     },
     "winning_model": {
         "model_name": "Logistic Regression",
